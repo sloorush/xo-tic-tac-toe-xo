@@ -20,10 +20,6 @@ const Game =()=>{
         setXisNext(!xIsNext);
     }
     
-    const jumpTo = () => {
-        
-    }
-    
     const renderMoves = () =>
         (<button onClick={()=> setBoard(Array(9).fill(null))}>
         Start!!!
