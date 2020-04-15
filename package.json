@@ -2,7 +2,7 @@
   "name": "xo-tic-tac-tow-xo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://r-ush.github.io/xo-tic-tac-toe-xo/",
+  "homepage":"./",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
