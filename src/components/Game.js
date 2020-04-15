@@ -33,6 +33,8 @@ const Game =()=>{
                 <h1>{winner?'We have a Winner '+winner:'Next Move '+ (xIsNext ? 'X' : 'O')}</h1>
                 {renderMoves()}
             </div>
+            <h2>Made with ❤️ by r-ush</h2>
+            <a style={{color:'#FFB530',fontSize:'20px'}} href='https://github.com/r-ush/xo-tic-tac-toe-xo'>github link</a>
         </div>
     )
 }
